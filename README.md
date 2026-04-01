@@ -12,9 +12,9 @@ I build modern web & mobile apps using HTML, CSS, JavaScript, React & Flutter, w
 ---
 
 ### 💡 About Me
-- 🔭 Currently working on **Roktalap**
-- 🌱 Learning **Python & Backend Development**
-- 🎨 Passionate about **UI/UX Design**
+- 🔭 Currently working on **[Roktalap](https://roktalap.com)** 
+- 🌱 Learning **Python Development**
+- 🎨 Passionate about **Web & app Development and UI/UX Design**
 - 🤝 Open to **collaboration on GitHub**
 - 📫 Reach me at: **ismailibna8@gmail.com**
 
