@@ -29,8 +29,8 @@ I build modern web & mobile apps using HTML, CSS, JavaScript, React & Flutter, w
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/tahsin-bit"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+   <a href="https://www.facebook.com/tahsin.ibna.ismail"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://www.linkedin.com/in/tahsin-ibne-ismail-36a552395/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.facebook.com/tahsin.ibna.ismail"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://www.instagram.com/tah_sin_0/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
