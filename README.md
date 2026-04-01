@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Tahsin Ibne Ismail</h1>
-<h3 align="center">🚀 I build modern web & mobile apps using HTML, CSS, JavaScript, React & Flutter, while exploring Python and crafting clean, user-friendly UI/UX experiences.</h3>
+<h3 align="center">🚀 Web & App Developer | UI/UX Designer </h3>
 
 <p align="center">
-I enjoy building modern web and mobile applications using a diverse set of technologies. From frontend to interactive UI, I work with multiple languages and frameworks to turn ideas into functional, user-friendly products. Currently, I’m actively working with HTML, CSS, JavaScript, React, Flutter, and also exploring Python as I continue to strengthen my backend and problem-solving skills. Alongside development, I have a strong interest in UI/UX design. I focus on creating clean, intuitive, and visually appealing interfaces that enhance user experience. I’m continuously learning, experimenting, and improving my skills to build better, smarter, and more impactful digital solutions.
+I build modern web & mobile apps using HTML, CSS, JavaScript, React & Flutter, while exploring Python and crafting clean, user-friendly UI/UX experiences
 </p>
 
 <p align="center">
@@ -26,21 +26,12 @@ I enjoy building modern web and mobile applications using a diverse set of techn
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/tahsin-bit" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="45" alt="github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tahsin-ibne-ismail-36a552395/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" height="45" alt="linkedin"/>
-  </a>
-  <a href="https://www.facebook.com/tahsin.ibna.ismail" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" height="45" alt="facebook"/>
-  </a>
-  <a href="https://www.instagram.com/tah_sin_0/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" height="45" alt="instagram"/>
-  </a>
+  <a href="https://github.com/tahsin-bit"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://www.linkedin.com/in/tahsin-ibne-ismail-36a552395/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.facebook.com/tahsin.ibna.ismail"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://www.instagram.com/tah_sin_0/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
