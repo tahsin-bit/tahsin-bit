@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Tahsin Ibne Ismail</h1>
+<h1 align="center">Hi There 👋, I'm Tahsin Ibne Ismail</h1>
 <h3 align="center">🚀 Web & App Developer | UI/UX Designer </h3>
 
 <p align="center">
